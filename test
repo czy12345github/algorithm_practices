@@ -1,1 +1,1 @@
-pull test
+push test
